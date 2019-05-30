@@ -1,5 +1,9 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/gcdc_nd.svg?style=social)
+
 # 1st Anniversary WorkShop
 Google Cloud Developer Community New Delhi's 1st anniversary workshop - Index Repository
+
+![GCDC-ND's 1st Anniversary Poster](/GCDC.jpg?raw=true "GCDC-ND's 1st Anniversary Poster")
 
 ## PROJECTS
 
@@ -7,7 +11,7 @@ The following Projects were created by the teams of participants who attended th
 
 ### Project 1: KraftLadies *by HEXAGON*
   - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team1
-  - **Live Preview**: https://gcdc-nd1yr-team1-3ivvcrwyqq-uc.a.run.app/
+  - **Live Preview**: https://gcdc-nd1yr-team1-3ivvcrwyqq-uc.a.run.app
 
 ### Project 2: Call-A-Craft *by the Last Folder*
   - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team2
@@ -25,9 +29,9 @@ The following Projects were created by the teams of participants who attended th
   - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team5
   - **Live Preview**: https://gcdc-nd1yr-team5-3ivvcrwyqq-uc.a.run.app
 
-### Project 6:
+### Project 6: Khadi Fab as a Service
   - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team6
-  - **Live Preview**: https://gcdc-nd1yr-team6-3ivvcrwyqq-uc.a.run.app
+  - **Live Preview**: https://gcdc-nd1yr-team6-3ivvcrwyqq-uc.a.run.app/pets.html
   
 ### Project 7: Handi Haat *by White Walkers*
   - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team7
