@@ -1,4 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/gcdc_nd.svg?style=social)
+<a href="https://twitter.com/intent/follow?screen_name=gcdc_nd" style="text-decoration:none"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gcdc_nd.svg?style=social"></a>
 
 # 1st Anniversary WorkShop
 Google Cloud Developer Community New Delhi's 1st anniversary workshop - Index Repository
