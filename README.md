@@ -1,13 +1,13 @@
-<a href="https://twitter.com/intent/follow?screen_name=gcdc_nd" style="text-decoration:none"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gcdc_nd.svg?style=social"></a>
+<a href="https://twitter.com/intent/follow?screen_name=gdgcloudnd" style="text-decoration:none" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gdgcloudnd.svg?style=social"></a>
 
 # 1st Anniversary WorkShop
-Google Cloud Developer Community New Delhi's 1st anniversary workshop - Index Repository
+Google Developers Group Cloud New Delhi's 1st anniversary workshop - Index Repository
 
-![GCDC-ND's 1st Anniversary Poster](/GCDC.jpg?raw=true "GCDC-ND's 1st Anniversary Poster")
+![GDGC-ND's 1st Anniversary Poster](/GCDC.jpg?raw=true "GCDC-ND's 1st Anniversary Poster")
 
 ## PROJECTS
 
-The following Projects were created by the teams of participants who attended the GCDC-ND's 1st anniversary workshop on 25th May 2019 held at Google Signature Towers, Gurugram, India
+The following Projects were created by the teams of participants who attended the GDGC-ND's 1st anniversary workshop on 25th May 2019 held at Google Signature Towers, Gurugram, India
 
 ### Project 1: KraftLadies *by HEXAGON*
   - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team1
