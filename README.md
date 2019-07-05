@@ -10,49 +10,49 @@ Google Developers Group Cloud New Delhi's 1st anniversary workshop - Index Repos
 The following Projects were created by the teams of participants who attended the GDGC-ND's 1st anniversary workshop on 25th May 2019 held at Google Signature Towers, Gurugram, India
 
 ### Project 1: KraftLadies *by HEXAGON*
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team1
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team1
   - **Live Preview**: https://gcdc-nd1yr-team1-3ivvcrwyqq-uc.a.run.app
 
 ### Project 2: Call-A-Craft *by the Last Folder*
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team2
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team2
   - **Live Preview**: https://gcdc-nd1yr-team2-3ivvcrwyqq-uc.a.run.app
 
 ### Project 3:
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team3
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team3
   - **Live Preview**: https://gcdc-nd1yr-team3-3ivvcrwyqq-uc.a.run.app
 
 ### Project 4: PCGW
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team4
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team4
   - **Live Preview**: https://gcdc-nd1yr-team4-3ivvcrwyqq-uc.a.run.app
 
 ### Project 5: Crafty Clouds
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team5
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team5
   - **Live Preview**: https://gcdc-nd1yr-team5-3ivvcrwyqq-uc.a.run.app
 
 ### Project 6: Khadi Fab as a Service
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team6
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team6
   - **Live Preview**: https://gcdc-nd1yr-team6-3ivvcrwyqq-uc.a.run.app/pets.html
   
 ### Project 7: Handi Haat *by White Walkers*
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team7
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team7
   - **Live Preview**: https://gcdc-nd1yr-team7-3ivvcrwyqq-uc.a.run.app
 
 ### Project 8: KR@FT !T *by KronosTech*
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team8
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team8
   - **Live Preview**: https://gcdc-nd1yr-team8-3ivvcrwyqq-uc.a.run.app
 
 ### Project 9: TechCraft *by Techcrafter*
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team9
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team9
   - **Live Preview**: https://gcdc-nd1yr-team9-3ivvcrwyqq-uc.a.run.app
 
 ### Project 10: Humara Shilp *by M.I.T.R.O.N*
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team10
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team10
   - **Live Preview**: https://gcdc-nd1yr-team10-3ivvcrwyqq-uc.a.run.app
 
 ### Project 11: Kalakriti Crafts *by LAZY 7*
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team11
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team11
   - **Live Preview**: https://gcdc-nd1yr-team11-3ivvcrwyqq-uc.a.run.app
 
 ### Project 12: Handicraft Cart *by Flyest*
-  - **Source Code**: https://github.com/gcdc-nd/gcdc-1yr-team12
+  - **Source Code**: https://github.com/gdgcloudnd/gcdc-1yr-team12
   - **Live Preview**: https://gcdc-nd1yr-team12-3ivvcrwyqq-uc.a.run.app
